@@ -11,7 +11,8 @@
 - 👀 I’m interested in Frontend development and like to code 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me
+
 ![](https://komarev.com/ghpvc/?username=GANESH312006)
 <!---
 GANESH312006/GANESH312006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
