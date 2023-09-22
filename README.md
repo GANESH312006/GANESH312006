@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ganesh312006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ganesh312006" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20947038/ganesh-murthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20947038/ganesh-murthy" height="30" width="40" /></a>
