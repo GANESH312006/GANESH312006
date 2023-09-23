@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh!</h1>
 <h3 align="center">A aspiring frontend developer and python dev from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh312006&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh312006" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ganesh312006&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh312006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganesh312006" alt="ganesh312006" /></a> </p>
 
