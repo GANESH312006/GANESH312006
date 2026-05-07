@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **GUI in Python**
 
-- 📫 How to reach me **ganeshmurthy2020@outlook.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
